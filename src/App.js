@@ -4,6 +4,7 @@ import foods from './foods.json';
 import FoodBox from './components/FoodBox'
 
 
+
 // function App() {
 //   return (
 //     <div className="App">
@@ -23,6 +24,7 @@ export default class App extends Component {
     })
     return (
       <div>
+  
         {foodItems}
       </div>
     )

@@ -9,9 +9,8 @@ export default class FoodBox extends Component {
 
 
     render() {
-        console.log(this.props)
         return (
-           <div className="box">
+<div className="box">
   <article className="media">
     <div className="media-left">
       <figure className="image is-64x64">
